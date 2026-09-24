@@ -1,9 +1,11 @@
-# Concepts → Obsidian → Canvas：手写素材到知识库的可复制流水线
+# SumiCollegerNotesSync —— 手写素材 → 知识库 → 画布 的可复制流水线
 
 > 一套**零依赖 Node 工具 + 明文规矩**，把"手写画板 / 截屏 / 散落文件"变成**可检索的知识库**，再变成**可浏览的画布导图**。
 > 写给**支持 skills / 工具调用的 Agent**（DSH 或类似的 harness）：照着 `docs/` 翻一遍，就能从**零工具**开始把这条流水线跑起来。
+> 配套长文（面向 Agent 的完整讲解）：`blog/concepts-to-knowledge-base.md`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-fengye1003%2FSumiCollegerNotesSync-blue)](https://github.com/fengye1003/SumiCollegerNotesSync)
 
 ---
 

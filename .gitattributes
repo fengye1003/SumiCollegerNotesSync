@@ -1,0 +1,5 @@
+# 统一行尾：默认 LF；PowerShell 脚本用 CRLF（Windows 侧习惯）
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.canvas text eol=lf

@@ -1,0 +1,10 @@
+# 忽略：凭据、缓存、产物、临时素材
+creds.json
+*.key
+*.pem
+canvas-source/
+out/
+cache/
+*.log
+.DS_Store
+Thumbs.db
